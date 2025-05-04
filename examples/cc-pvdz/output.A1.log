@@ -1,0 +1,327 @@
+Version tag: prec64_A1_normalized
+Fixed basis name: cc-pVDZ
+Selected math precision: 64 digits
+-----------------
+Atom: H     0
+-----------------
+  Block type: S
+  Header: 3   1.00
+    0.1301000000D+02  0.3349872639D-01
+    0.1962000000D+01  0.2348008012D+00
+    0.4446000000D+00  0.8136829579D+00
+Full norm: 0.9999999507
+Removed # 1 (alfa = 13.0100000000): norm = 0.9785028103, loss = 2.1497%, contribution = 21.6129%
+Removed # 2 (alfa = 1.9620000000): norm = 0.6748550615, loss = 32.5145%, contribution = 36.6608%
+Removed # 3 (alfa = 0.4446000000): norm = 0.0649755663, loss = 93.5024%, contribution = 41.7263%
+  Block type: S
+  Header: 1   1.00
+    1.220000D-01           1.000000D+00
+Only one primitive - nothing to reduce.
+  Block type: P
+  Header: 1   1.00
+    7.270000D-01           1.0000000
+Only one primitive - nothing to reduce.
+ALL joined
+0.1301000000D+02  0.3349872639D-01
+0.1962000000D+01  0.2348008012D+00
+0.4446000000D+00  0.8136829579D+00
+1.220000D-01           1.000000D+00
+7.270000D-01           1.0000000
+
+Full norm: 7.5141355807
+Removed # 1 (alfa = 13.0100000000): norm = 7.4669338979, loss = 0.6282%, contribution = 11.1640%
+Removed # 2 (alfa = 1.9620000000): norm = 6.6447507706, loss = 11.5700%, contribution = 18.9368%
+Removed # 3 (alfa = 0.4446000000): norm = 3.8101804414, loss = 49.2932%, contribution = 21.5534%
+Removed # 4 (alfa = 0.1220000000): norm = 3.9691546161, loss = 47.1775%, contribution = 10.0428%
+Removed # 5 (alfa = 0.7270000000): norm = 3.3697204283, loss = 55.1549%, contribution = 38.3031%
+-----------------
+-----------------
+Atom: C     0
+-----------------
+  Block type: S
+  Header: 7   1.00
+    0.6665000000D+04  0.6935163173D-03
+    0.1000000000D+04  0.5341502433D-02
+    0.2280000000D+03  0.2713667141D-01
+    0.6471000000D+02  0.1019923853D+00
+    0.2106000000D+02  0.2755086365D+00
+    0.7495000000D+01  0.4510864331D+00
+    0.2797000000D+01  0.2875657448D+00
+Full norm: 1.0000000000
+Removed # 1 (alfa = 6665.0000000000): norm = 0.9999466819, loss = 0.0053%, contribution = 4.7568%
+Removed # 2 (alfa = 1000.0000000000): norm = 0.9985140261, loss = 0.1486%, contribution = 8.8323%
+Removed # 3 (alfa = 228.0000000000): norm = 0.9819744428, loss = 1.8026%, contribution = 14.8054%
+Removed # 4 (alfa = 64.7100000000): norm = 0.8815561677, loss = 11.8444%, contribution = 21.6375%
+Removed # 5 (alfa = 21.0600000000): norm = 0.5855928049, loss = 41.4407%, contribution = 25.1849%
+Removed # 6 (alfa = 7.4950000000): norm = 0.3243317601, loss = 67.5668%, contribution = 18.9998%
+Removed # 7 (alfa = 2.7970000000): norm = 0.6013300111, loss = 39.8670%, contribution = 5.7832%
+  Block type: S
+  Header: 7   1.00
+    0.6665000000D+04  0.7733547404D-05
+    0.2280000000D+03  0.2780721367D-03
+    0.6471000000D+02 -0.2578756542D-02
+    0.2106000000D+02 -0.8950876838D-02
+    0.7495000000D+01 -0.1060588547D+00
+    0.2797000000D+01 -0.1315176856D+00
+    0.5215000000D+00  0.1099486598D+01
+Full norm: 0.9999999090
+Removed # 1 (alfa = 6665.0000000000): norm = 0.9999999219, loss = -0.0000%, contribution = 0.3547%
+Removed # 2 (alfa = 228.0000000000): norm = 1.0000047117, loss = -0.0005%, contribution = 1.0144%
+Removed # 3 (alfa = 64.7100000000): norm = 0.9999524282, loss = 0.0047%, contribution = 3.6579%
+Removed # 4 (alfa = 21.0600000000): norm = 1.0004526250, loss = -0.0453%, contribution = 5.4708%
+Removed # 5 (alfa = 7.4950000000): norm = 1.0443123651, loss = -4.4312%, contribution = 29.8687%
+Removed # 6 (alfa = 2.7970000000): norm = 1.1375077686, loss = -13.7508%, contribution = 17.6846%
+Removed # 7 (alfa = 0.5215000000): norm = 0.0552726413, loss = 94.4727%, contribution = 41.9490%
+  Block type: S
+  Header: 1   1.00
+    1.596000D-01           1.000000D+00
+Only one primitive - nothing to reduce.
+  Block type: P
+  Header: 3   1.00
+    0.9439000000D+01  0.5697925159D-01
+    0.2002000000D+01  0.3132072115D+00
+    0.5456000000D+00  0.7603767417D+00
+Full norm: 1.0837100864
+Removed # 1 (alfa = 9.4390000000): norm = 1.0302627576, loss = 4.9319%, contribution = 23.3038%
+Removed # 2 (alfa = 2.0020000000): norm = 0.6079761241, loss = 43.8986%, contribution = 40.0355%
+Removed # 3 (alfa = 0.5456000000): norm = 0.1249893433, loss = 88.4665%, contribution = 36.6607%
+  Block type: P
+  Header: 1   1.00
+    1.517000D-01           1.000000D+00
+Only one primitive - nothing to reduce.
+  Block type: D
+  Header: 1   1.00
+    5.500000D-01           1.0000000
+Only one primitive - nothing to reduce.
+ALL joined
+0.6665000000D+04  0.6935163173D-03
+0.1000000000D+04  0.5341502433D-02
+0.2280000000D+03  0.2713667141D-01
+0.6471000000D+02  0.1019923853D+00
+0.2106000000D+02  0.2755086365D+00
+0.7495000000D+01  0.4510864331D+00
+0.2797000000D+01  0.2875657448D+00
+0.6665000000D+04  0.7733547404D-05
+0.2280000000D+03  0.2780721367D-03
+0.6471000000D+02 -0.2578756542D-02
+0.2106000000D+02 -0.8950876838D-02
+0.7495000000D+01 -0.1060588547D+00
+0.2797000000D+01 -0.1315176856D+00
+0.5215000000D+00  0.1099486598D+01
+1.596000D-01           1.000000D+00
+0.9439000000D+01  0.5697925159D-01
+0.2002000000D+01  0.3132072115D+00
+0.5456000000D+00  0.7603767417D+00
+1.517000D-01           1.000000D+00
+5.500000D-01           1.0000000
+
+Full norm: 26.0291196198
+Removed # 1 (alfa = 6665.0000000000): norm = 26.0290544278, loss = 0.0003%, contribution = 3.4533%
+Removed # 2 (alfa = 1000.0000000000): norm = 26.0272541662, loss = 0.0072%, contribution = 6.4120%
+Removed # 3 (alfa = 228.0000000000): norm = 26.0052201568, loss = 0.0918%, contribution = 10.7483%
+Removed # 4 (alfa = 64.7100000000): norm = 25.8532680094, loss = 0.6756%, contribution = 15.7083%
+Removed # 5 (alfa = 21.0600000000): norm = 25.2536508821, loss = 2.9792%, contribution = 18.2836%
+Removed # 6 (alfa = 7.4950000000): norm = 24.1148104417, loss = 7.3545%, contribution = 13.7934%
+Removed # 7 (alfa = 2.7970000000): norm = 24.1774593791, loss = 7.1138%, contribution = 4.1984%
+Removed # 8 (alfa = 6665.0000000000): norm = 26.0291188876, loss = 0.0000%, contribution = 0.0385%
+Removed # 9 (alfa = 228.0000000000): norm = 26.0288672511, loss = 0.0010%, contribution = 0.1101%
+Removed #10 (alfa = 64.7100000000): norm = 26.0338354828, loss = -0.0181%, contribution = 0.3972%
+Removed #11 (alfa = 21.0600000000): norm = 26.0568596388, loss = -0.1066%, contribution = 0.5940%
+Removed #12 (alfa = 7.4950000000): norm = 26.5382996919, loss = -1.9562%, contribution = 3.2431%
+Removed #13 (alfa = 2.7970000000): norm = 26.9310900441, loss = -3.4652%, contribution = 1.9202%
+Removed #14 (alfa = 0.5215000000): norm = 16.4235642639, loss = 36.9031%, contribution = 4.5547%
+Removed #15 (alfa = 0.1596000000): norm = 18.1278998928, loss = 30.3553%, contribution = 1.7045%
+Removed #16 (alfa = 9.4390000000): norm = 25.7877556220, loss = 0.9273%, contribution = 2.0713%
+Removed #17 (alfa = 2.0020000000): norm = 23.7786482899, loss = 8.6460%, contribution = 3.5585%
+Removed #18 (alfa = 0.5456000000): norm = 19.1517064089, loss = 26.4220%, contribution = 3.2585%
+Removed #19 (alfa = 0.1517000000): norm = 18.2360992982, loss = 29.9396%, contribution = 1.6409%
+Removed #20 (alfa = 0.5500000000): norm = 17.2299578559, loss = 33.8051%, contribution = 4.3113%
+-----------------
+-----------------
+Atom: P     0
+-----------------
+  Block type: S
+  Header: 9   1.00
+    0.9484000000D+05  0.2552359878D-03
+    0.1422000000D+05  0.1979823882D-02
+    0.3236000000D+04  0.1026485203D-01
+    0.9171000000D+03  0.4143747364D-01
+    0.2995000000D+03  0.1318300687D+00
+    0.1081000000D+03  0.3082722231D+00
+    0.4218000000D+02  0.4198812898D+00
+    0.1728000000D+02  0.2224305272D+00
+    0.4858000000D+01  0.1841567602D-01
+Full norm: 1.0000000000
+Removed # 1 (alfa = 94840.0000000000): norm = 0.9999887839, loss = 0.0011%, contribution = 3.1358%
+Removed # 2 (alfa = 14220.0000000000): norm = 0.9996703906, loss = 0.0330%, contribution = 5.8609%
+Removed # 3 (alfa = 3236.0000000000): norm = 0.9955829479, loss = 0.4417%, contribution = 10.0121%
+Removed # 4 (alfa = 917.1000000000): norm = 0.9647482035, loss = 3.5252%, contribution = 15.6989%
+Removed # 5 (alfa = 299.5000000000): norm = 0.8276120359, loss = 17.2388%, contribution = 21.5763%
+Removed # 6 (alfa = 108.1000000000): norm = 0.5218433965, loss = 47.8157%, contribution = 23.4946%
+Removed # 7 (alfa = 42.1800000000): norm = 0.3649818884, loss = 63.5018%, contribution = 15.7987%
+Removed # 8 (alfa = 17.2800000000): norm = 0.6834129526, loss = 31.6587%, contribution = 4.2857%
+Removed # 9 (alfa = 4.8580000000): norm = 0.9825115217, loss = 1.7488%, contribution = 0.1370%
+  Block type: S
+  Header: 8   1.00
+    0.3236000000D+04 -0.5968380732D-04
+    0.9171000000D+03 -0.1893137803D-03
+    0.2995000000D+03 -0.3531267320D-02
+    0.1081000000D+03 -0.1578691497D-01
+    0.4218000000D+02 -0.8178538072D-01
+    0.1728000000D+02 -0.5315517357D-01
+    0.4858000000D+01  0.5091508541D+00
+    0.1818000000D+01  0.5935962500D+00
+Full norm: 1.0000000000
+Removed # 1 (alfa = 3236.0000000000): norm = 1.0000000501, loss = -0.0000%, contribution = 0.4887%
+Removed # 2 (alfa = 917.1000000000): norm = 1.0000016301, loss = -0.0002%, contribution = 0.6021%
+Removed # 3 (alfa = 299.5000000000): norm = 1.0001774287, loss = -0.0177%, contribution = 4.8515%
+Removed # 4 (alfa = 108.1000000000): norm = 1.0030637499, loss = -0.3064%, contribution = 10.0999%
+Removed # 5 (alfa = 42.1800000000): norm = 1.0472001257, loss = -4.7200%, contribution = 25.8319%
+Removed # 6 (alfa = 17.2800000000): norm = 1.0577122947, loss = -5.7712%, contribution = 8.5971%
+Removed # 7 (alfa = 4.8580000000): norm = 0.3179101303, loss = 68.2090%, contribution = 31.7936%
+Removed # 8 (alfa = 1.8180000000): norm = 0.1953017475, loss = 80.4698%, contribution = 17.7352%
+  Block type: S
+  Header: 8   1.00
+    0.3236000000D+04 -0.4939578343D-05
+    0.9171000000D+03  0.1847442598D-04
+    0.1081000000D+03  0.1007488212D-02
+    0.4218000000D+02  0.3104108700D-02
+    0.1728000000D+02  0.7609426376D-02
+    0.4858000000D+01 -0.9223370252D-01
+    0.1818000000D+01 -0.3856048195D+00
+    0.3372000000D+00  0.1196823700D+01
+Full norm: 0.9999998935
+Removed # 1 (alfa = 3236.0000000000): norm = 0.9999998787, loss = 0.0000%, contribution = 0.1333%
+Removed # 2 (alfa = 917.1000000000): norm = 1.0000000392, loss = -0.0000%, contribution = 0.1936%
+Removed # 3 (alfa = 108.1000000000): norm = 1.0000432755, loss = -0.0043%, contribution = 2.1243%
+Removed # 4 (alfa = 42.1800000000): norm = 1.0002619443, loss = -0.0262%, contribution = 3.2313%
+Removed # 5 (alfa = 17.2800000000): norm = 1.0009754760, loss = -0.0976%, contribution = 4.0562%
+Removed # 6 (alfa = 4.8580000000): norm = 1.0094726861, loss = -0.9473%, contribution = 18.9820%
+Removed # 7 (alfa = 1.8180000000): norm = 1.3665411280, loss = -36.6541%, contribution = 37.9706%
+Removed # 8 (alfa = 0.3372000000): norm = 0.2123584818, loss = 78.7641%, contribution = 33.3086%
+  Block type: S
+  Header: 1   1.00
+    1.232000D-01           1.000000D+00
+Only one primitive - nothing to reduce.
+  Block type: P
+  Header: 6   1.00
+    0.3705000000D+03  0.3971948121D-02
+    0.8733000000D+02  0.3040942277D-01
+    0.2759000000D+02  0.1303107929D+00
+    0.1000000000D+02  0.3294093415D+00
+    0.3825000000D+01  0.4602762565D+00
+    0.1494000000D+01  0.2528480381D+00
+Full norm: 1.1294761349
+Removed # 1 (alfa = 370.5000000000): norm = 1.1280235933, loss = 0.1286%, contribution = 5.3876%
+Removed # 2 (alfa = 87.3300000000): norm = 1.1035310017, loss = 2.2971%, contribution = 13.9535%
+Removed # 3 (alfa = 27.5900000000): norm = 0.9517596256, loss = 15.7344%, contribution = 25.1968%
+Removed # 4 (alfa = 10.0000000000): norm = 0.5911760184, loss = 47.6593%, contribution = 29.7534%
+Removed # 5 (alfa = 3.8250000000): norm = 0.3917529006, loss = 65.3155%, contribution = 20.2206%
+Removed # 6 (alfa = 1.4940000000): norm = 0.7538796892, loss = 33.2540%, contribution = 5.4881%
+  Block type: P
+  Header: 6   1.00
+    0.8733000000D+02  0.4203417805D-03
+    0.2759000000D+02 -0.2170318972D-02
+    0.1000000000D+02  0.4277732466D-04
+    0.3825000000D+01 -0.4223986262D-01
+    0.1494000000D+01  0.9232244981D-01
+    0.3921000000D+00  0.9549145721D+00
+Full norm: 1.0083031873
+Removed # 1 (alfa = 87.3300000000): norm = 1.0082642081, loss = 0.0039%, contribution = 1.5972%
+Removed # 2 (alfa = 27.5900000000): norm = 1.0087931043, loss = -0.0486%, contribution = 3.4751%
+Removed # 3 (alfa = 10.0000000000): norm = 1.0082828048, loss = 0.0020%, contribution = 0.0320%
+Removed # 4 (alfa = 3.8250000000): norm = 1.0487883750, loss = -4.0152%, contribution = 15.3666%
+Removed # 5 (alfa = 1.4940000000): norm = 0.8776123379, loss = 12.9615%, contribution = 16.5940%
+Removed # 6 (alfa = 0.3921000000): norm = 0.0036462206, loss = 99.6384%, contribution = 62.9351%
+  Block type: P
+  Header: 1   1.00
+    1.186000D-01           1.000000D+00
+Only one primitive - nothing to reduce.
+  Block type: D
+  Header: 1   1.00
+    3.730000D-01           1.0000000
+Only one primitive - nothing to reduce.
+ALL joined
+0.9484000000D+05  0.2552359878D-03
+0.1422000000D+05  0.1979823882D-02
+0.3236000000D+04  0.1026485203D-01
+0.9171000000D+03  0.4143747364D-01
+0.2995000000D+03  0.1318300687D+00
+0.1081000000D+03  0.3082722231D+00
+0.4218000000D+02  0.4198812898D+00
+0.1728000000D+02  0.2224305272D+00
+0.4858000000D+01  0.1841567602D-01
+0.3236000000D+04 -0.5968380732D-04
+0.9171000000D+03 -0.1893137803D-03
+0.2995000000D+03 -0.3531267320D-02
+0.1081000000D+03 -0.1578691497D-01
+0.4218000000D+02 -0.8178538072D-01
+0.1728000000D+02 -0.5315517357D-01
+0.4858000000D+01  0.5091508541D+00
+0.1818000000D+01  0.5935962500D+00
+0.3236000000D+04 -0.4939578343D-05
+0.9171000000D+03  0.1847442598D-04
+0.1081000000D+03  0.1007488212D-02
+0.4218000000D+02  0.3104108700D-02
+0.1728000000D+02  0.7609426376D-02
+0.4858000000D+01 -0.9223370252D-01
+0.1818000000D+01 -0.3856048195D+00
+0.3372000000D+00  0.1196823700D+01
+1.232000D-01           1.000000D+00
+0.3705000000D+03  0.3971948121D-02
+0.8733000000D+02  0.3040942277D-01
+0.2759000000D+02  0.1303107929D+00
+0.1000000000D+02  0.3294093415D+00
+0.3825000000D+01  0.4602762565D+00
+0.1494000000D+01  0.2528480381D+00
+0.8733000000D+02  0.4203417805D-03
+0.2759000000D+02 -0.2170318972D-02
+0.1000000000D+02  0.4277732466D-04
+0.3825000000D+01 -0.4223986262D-01
+0.1494000000D+01  0.9232244981D-01
+0.3921000000D+00  0.9549145721D+00
+1.186000D-01           1.000000D+00
+3.730000D-01           1.0000000
+
+Full norm: 36.3988267399
+Removed # 1 (alfa = 94840.0000000000): norm = 36.3988135715, loss = 0.0000%, contribution = 2.3506%
+Removed # 2 (alfa = 14220.0000000000): norm = 36.3984342755, loss = 0.0011%, contribution = 4.3933%
+Removed # 3 (alfa = 3236.0000000000): norm = 36.3934219182, loss = 0.0148%, contribution = 7.5049%
+Removed # 4 (alfa = 917.1000000000): norm = 36.3533832186, loss = 0.1248%, contribution = 11.7677%
+Removed # 5 (alfa = 299.5000000000): norm = 36.1527694728, loss = 0.6760%, contribution = 16.1733%
+Removed # 6 (alfa = 108.1000000000): norm = 35.5658158704, loss = 2.2886%, contribution = 17.6112%
+Removed # 7 (alfa = 42.1800000000): norm = 34.8668831376, loss = 4.2088%, contribution = 11.8425%
+Removed # 8 (alfa = 17.2800000000): norm = 35.2930520279, loss = 3.0379%, contribution = 3.2125%
+Removed # 9 (alfa = 4.8580000000): norm = 36.2681175295, loss = 0.3591%, contribution = 0.1027%
+Removed #10 (alfa = 3236.0000000000): norm = 36.3988587818, loss = -0.0001%, contribution = 0.0436%
+Removed #11 (alfa = 917.1000000000): norm = 36.3990422365, loss = -0.0006%, contribution = 0.0538%
+Removed #12 (alfa = 299.5000000000): norm = 36.4058957521, loss = -0.0194%, contribution = 0.4332%
+Removed #13 (alfa = 108.1000000000): norm = 36.4466019162, loss = -0.1313%, contribution = 0.9019%
+Removed #14 (alfa = 42.1800000000): norm = 36.7382510093, loss = -0.9325%, contribution = 2.3067%
+Removed #15 (alfa = 17.2800000000): norm = 36.6777272537, loss = -0.7662%, contribution = 0.7677%
+Removed #16 (alfa = 4.8580000000): norm = 33.0348775845, loss = 9.2419%, contribution = 2.8391%
+Removed #17 (alfa = 1.8180000000): norm = 31.4574684708, loss = 13.5756%, contribution = 1.5837%
+Removed #18 (alfa = 3236.0000000000): norm = 36.3988293915, loss = -0.0000%, contribution = 0.0036%
+Removed #19 (alfa = 917.1000000000): norm = 36.3988057142, loss = 0.0001%, contribution = 0.0052%
+Removed #20 (alfa = 108.1000000000): norm = 36.3957947473, loss = 0.0083%, contribution = 0.0576%
+Removed #21 (alfa = 42.1800000000): norm = 36.3862076280, loss = 0.0347%, contribution = 0.0875%
+Removed #22 (alfa = 17.2800000000): norm = 36.3593631337, loss = 0.1084%, contribution = 0.1099%
+Removed #23 (alfa = 4.8580000000): norm = 37.0636808278, loss = -1.8266%, contribution = 0.5143%
+Removed #24 (alfa = 1.8180000000): norm = 39.9863568106, loss = -9.8562%, contribution = 1.0288%
+Removed #25 (alfa = 0.3372000000): norm = 24.3478542650, loss = 33.1081%, contribution = 0.9025%
+Removed #26 (alfa = 0.1232000000): norm = 27.4209486000, loss = 24.6653%, contribution = 0.3544%
+Removed #27 (alfa = 370.5000000000): norm = 36.3916473701, loss = 0.0197%, contribution = 0.5716%
+Removed #28 (alfa = 87.3300000000): norm = 36.3011871728, loss = 0.2682%, contribution = 1.4804%
+Removed #29 (alfa = 27.5900000000): norm = 35.8183589438, loss = 1.5947%, contribution = 2.6732%
+Removed #30 (alfa = 10.0000000000): norm = 34.5406189063, loss = 5.1051%, contribution = 3.1566%
+Removed #31 (alfa = 3.8250000000): norm = 33.1454849112, loss = 8.9380%, contribution = 2.1452%
+Removed #32 (alfa = 1.4940000000): norm = 34.1106792147, loss = 6.2863%, contribution = 0.5822%
+Removed #33 (alfa = 87.3300000000): norm = 36.3974644871, loss = 0.0037%, contribution = 0.0205%
+Removed #34 (alfa = 27.5900000000): norm = 36.4087819249, loss = -0.0274%, contribution = 0.0445%
+Removed #35 (alfa = 10.0000000000): norm = 36.3985713423, loss = 0.0007%, contribution = 0.0004%
+Removed #36 (alfa = 3.8250000000): norm = 36.7186143265, loss = -0.8786%, contribution = 0.1969%
+Removed #37 (alfa = 1.4940000000): norm = 35.5485349053, loss = 2.3360%, contribution = 0.2126%
+Removed #38 (alfa = 0.3921000000): norm = 26.5813638164, loss = 26.9719%, contribution = 0.8063%
+Removed #39 (alfa = 0.1186000000): norm = 27.5158212311, loss = 24.4046%, contribution = 0.3444%
+Removed #40 (alfa = 0.3730000000): norm = 26.1467978612, loss = 28.1658%, contribution = 0.8133%
+-----------------
