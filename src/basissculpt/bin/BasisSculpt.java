@@ -139,7 +139,7 @@ If you use this tool in a scientific publication, please cite as:
             System.out.println(String.format("""
 BasisSculpt - Basis Set Reduction and Correction Tool
 Version: %s
-Citation: Macernis M., BasisSculpt, version 2025.4.v1, 2025.
+Citation: Macernis M., Phys. Chem. Chem. Phys. 2025, 27 (27), 14555-14564.
 License: BSD 3-Clause
 Copyright (C) 2025 M. Macernis
 
