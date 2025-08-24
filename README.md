@@ -145,24 +145,24 @@ This ensures reproducibility and traceability.
 
 > Note: Use the `--version-tag` option during execution to assign an identifiable version to your results.
 
-A formal citation text will be provided upon release of the corresponding peer-reviewed article.
-
-Until then, please cite:
-
->  Mačernis M., *BasisSculpt*, version `2025.4.v1`, 2025.
+Cite this work as:
+>    Macernis, M., 
+>    Component-wise AO basis reduction: norm loss, negative contribution normalization, and functional implications. 
+>    Phys. Chem. Chem. Phys. 2025, 27 (27), 14555-14564.
+>    https://doi.org/10.1039/D5CP01681A     
 
 ### Example command:
 ```bash
 --version-tag cc-pvdz-H_s-v1
 ```
 ### In publication recommendation:
-`cc-pvdz-H_s-v1`[1], based on `cc-pVDZ` [2-5]
+`cc-pvdz-H_s-v1`[1], based on `cc-pVDZ` [2-4]
 
 > Note: This tool uses the GBS format independently of Gaussian or other quantum chemistry packages; however, basis set references may follow the conventions of those ecosystems. It is recommended to use Basis Set Exchange or similar tools for format conversion.
 
 ### References
 
-[1] Mačernis M., BasisSculpt, version 2025.4.v1, 2025.
+[1] Macernis, M. Component-wise AO basis reduction: norm loss, negative contribution normalization, and functional implications. Phys. Chem. Chem. Phys. 27 (27), 14555-14564 (2025). DOI: 10.1039/D5CP01681A  
 
 [2] Pritchard, B. P., Altarawy, D., Didier, B., Gibson, T. D., Windus, T. L. A New Basis Set Exchange: An Open, Up-to-date Resource for the Molecular Sciences Community J. Chem. Inf. Model. 59, 4814–4820 (2019). DOI: 10.1021/acs.jcim.9b00725
 
@@ -180,11 +180,14 @@ Use the `--help` flag to display:
 - Version and license summary
 - Citation guidance if available
 
-Example:
+Basic example:
 ```bash
-java -jar basissetcorrection.jar --help
+java -jar BasisSculpt-2025.4.1.jar --help
 ```
-
+Example in Windows enviroment:
+```cmd
+BasisSculpt-2025.4.1.exe --help
+```
 ---
 
 Supervised and validated by a physicist pursuing high-precision computational models.
