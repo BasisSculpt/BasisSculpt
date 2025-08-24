@@ -87,7 +87,12 @@ If you use this tool in a scientific publication, please cite as:
 
 Macernis M., BasisSculpt, version 2025.4.v1, 2025.
 
-Note: A formal citation (Macernis M., PCCP) will be provided upon publication of the corresponding peer-reviewed article.
+Cite this work as:
+    Macernis, M., 
+    Component-wise AO basis reduction: norm loss, negative contribution normalization, and functional implications. 
+    Phys. Chem. Chem. Phys. 2025, 27 (27), 14555-14564.
+    https://doi.org/10.1039/D5CP01681A                                          
+                                             
 """, basissculpt.etc.Version.codeVersion));
             System.exit(0);
         }
